@@ -21,6 +21,7 @@ public abstract class AbstractContender {
     this.evd = evd;
     this.stars = 0;
     this.win = 0;
+    int a=1;
   }
 
   public String getName() {
