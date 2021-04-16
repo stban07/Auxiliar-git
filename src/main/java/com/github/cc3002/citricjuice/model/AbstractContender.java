@@ -22,7 +22,9 @@ public abstract class AbstractContender {
     this.stars = 0;
     this.win = 0;
 
-    
+
+
+
   }
 
   public String getName() {
